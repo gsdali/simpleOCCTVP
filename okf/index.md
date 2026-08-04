@@ -50,3 +50,4 @@ licensing (LGPL-2.1 + OCCT exception).
 - [No em-dashes, banned words in prose](policies/writing-style.md)
 - [Search before building](policies/search-before-building.md)
 - [Code structure](policies/code-structure.md)
+- [Issue labels and project-board tracking](policies/issue-tracking.md)
